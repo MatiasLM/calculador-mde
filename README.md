@@ -1,4 +1,4 @@
-#Generación de ejecutable
+# Generación de ejecutable
 
 * Generar el entorno de Anaconda con lo siguientes paquetes
 ```
