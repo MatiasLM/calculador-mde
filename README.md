@@ -2,7 +2,6 @@
 
 * Generar el entorno de Anaconda con lo siguientes paquetes
 ```
-
 Package                   Version
 ------------------------- ----------
 altgraph                  0.17
@@ -43,7 +42,6 @@ wheel                     0.35.1
 wincertstore              0.2
 zipp                      1.2.0
 ```
-
 * Activar el entorno
 * Generar el ejecutable
 ```
