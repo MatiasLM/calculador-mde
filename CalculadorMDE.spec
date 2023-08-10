@@ -2,7 +2,7 @@
 
 BASE_NAME = 'CalculadorMDE'
 VERSION = '0.2'
-NAME = BASE_NAME + '_' + VERSION
+NAME = BASE_NAME + '_v' + VERSION
 block_cipher = None
 
 a = Analysis([BASE_NAME + '.py'],

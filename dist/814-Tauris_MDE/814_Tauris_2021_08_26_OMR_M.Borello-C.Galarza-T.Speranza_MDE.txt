@@ -1,0 +1,35 @@
+FOTOMETRIA DIFERENCIAL ESTANDARIZADA - GORA
+
+ESTRELLAS DE CALIBRADO:
+   C1: 12.505
+   C2: 12.607
+   C3: 12.877
+
+814                                 14.083
+FECHA J GEO           MAG      +/-         MAG      +/-
+----------------------------------  -------------------
+2459453.46660      -0.051    0.002
+2459453.46941      -0.035    0.002
+2459453.47218      -0.052    0.002
+2459453.47494      -0.048    0.002
+2459453.47771      -0.048    0.002
+2459453.48048      -0.050    0.002
+2459453.48197      -0.041    0.002
+2459453.48350      -0.052    0.002
+2459453.48802      -0.065    0.002
+2459453.49079      -0.066    0.002
+2459453.49355      -0.071    0.002
+2459453.49632      -0.072    0.002
+2459453.49910      -0.074    0.002
+2459453.50186      -0.073    0.002
+2459453.50618      -0.084    0.002
+2459453.50772      -0.077    0.002
+2459453.51049      -0.083    0.002
+2459453.51325      -0.079    0.002
+
+Observador: Observatorio Municipal Reconquista
+FotoDif 3.109
+
+Procesado con Herramientas GORA versión 0.2
+Fecha de estandarización: 814_Tauris_2021_08_26_OMR_M.Borello-C.Galarza-T.Speranza_EfemJPL.txt
+Magnitud de estandarización: 814_Tauris_2021_08_26_OMR_M.Borello-C.Galarza-T.Speranza_EfemJPL.txt
